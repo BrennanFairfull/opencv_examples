@@ -210,3 +210,7 @@ include_directories(include ${catkin_INCLUDE_DIRS})
 add_executable(circle_detector src/circle_detector.cpp)
 target_link_libraries(circle_detector ${catkin_LIBRARIES})
 add_dependencies(circle_detector opencv_examples_generate_messages_cpp)
+
+add_executable(cv_bridger src/cv_bridger.cpp)
+target_link_libraries(cv_bridger ${catkin_LIBRARIES})
+add_dependencies(cv_bridger opencv_examples_generate_messages_cpp)
