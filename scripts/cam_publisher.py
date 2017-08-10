@@ -24,7 +24,7 @@ def talker():
     bridge = CvBridge();
 
     #define capture
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(-1)
 
     #set node frequency
     rate = rospy.Rate(1) # 1 Hz
