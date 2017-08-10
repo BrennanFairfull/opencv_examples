@@ -37,6 +37,7 @@ def talker():
             rospy.loginfo("Image sent!")
         except CvBridgeError as e:
             print(e)
+            cap.release()
 
         rate.sleep()
 
