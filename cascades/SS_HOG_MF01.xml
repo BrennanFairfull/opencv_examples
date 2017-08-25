@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage3>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-2.7903145551681519e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 5057 2.6030659675598145e-02</internalNodes>
+      <leafValues>
+        -7.4725276231765747e-01 6.4864861965179443e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 6110 9.9987518042325974e-03</internalNodes>
+      <leafValues>
+        5.0016397237777710e-01 -7.5211244821548462e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1762 1.9519977271556854e-02</internalNodes>
+      <leafValues>
+        -8.8067674636840820e-01 3.4606847167015076e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 4571 9.2501714825630188e-03</internalNodes>
+      <leafValues>
+        3.3666524291038513e-01 -8.5492753982543945e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 2261 3.7545837461948395e-02</internalNodes>
+      <leafValues>
+        -6.2203985452651978e-01 5.8380341529846191e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1071 2.1325273439288139e-02</internalNodes>
+      <leafValues>
+        -7.8939801454544067e-01 3.9689227938652039e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 414 2.7248244732618332e-02</internalNodes>
+      <leafValues>
+        -7.9847329854965210e-01 3.3912023901939392e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1890 9.7952177748084068e-03</internalNodes>
+      <leafValues>
+        3.7033689022064209e-01 -7.8545802831649780e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1994 5.0216972827911377e-02</internalNodes>
+      <leafValues>
+        -5.1670926809310913e-01 6.0621631145477295e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 4964 1.5944274142384529e-02</internalNodes>
+      <leafValues>
+        -7.6709419488906860e-01 3.9325800538063049e-01</leafValues></_></weakClassifiers></stage3>
+</opencv_storage>
